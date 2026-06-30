@@ -18,7 +18,8 @@ public class Array {
 
        /*  // Sum of all elements in array
          int sum=0;
-         int[] array = new int[5];
+         int[] array 2
+         = new int[5];
          for(int i =0;i<array.length;i++){
             array[i] = num.nextInt();
             sum+=array[i];
