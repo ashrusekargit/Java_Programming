@@ -1,7 +1,7 @@
 class Book{
     String bookName="Default";
     String authorName="Unknown";
-    Book(String bookName, String authorName){
+    Book(String bookName, String authorName){    //parameterised constructor
         this.bookName=bookName;
         this.authorName=authorName;
     }
