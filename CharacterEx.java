@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Character {
+public class CharacterEx {
     public static void main(String[] args) {
         Scanner letter = new Scanner(System.in);
         System.out.print("Enter a Character: ");
