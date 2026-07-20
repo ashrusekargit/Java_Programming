@@ -4,7 +4,7 @@ import java.util.Map;
 public class FrequencyArr {
     public static void main(String[] args) {
     //Frequency values of array - key , no of times - values
-        int[] arr = {1,2,1,2,3,4};
+        /*int[] arr = {1,2,1,2,3,4};
         Map<Integer,Integer> map = new HashMap<>();
         for (int i : arr){
             if(map.containsKey(i)){
@@ -16,7 +16,7 @@ public class FrequencyArr {
         }   
         for(Map.Entry<Integer,Integer> entry:map.entrySet()){
                 System.out.print(entry.getKey()+"->"+entry.getValue()+", ");
-            }
+            }*/
 
         // 
         String s = "frequency";
@@ -33,7 +33,6 @@ public class FrequencyArr {
         for(Map.Entry<Character,Integer> entry:map1.entrySet()){
                 System.out.print(entry.getKey()+"->"+entry.getValue()+", ");
             }
-        
     }
 }
 
